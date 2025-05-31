@@ -1,0 +1,1 @@
+ALTER TABLE `tbl_settings` ADD `is_theme` varchar(255) NOT NULL;
